@@ -1,4 +1,4 @@
-# Visit the website : 
+# Visit here: 
 https://google-auth-login.netlify.app/
 ### GoogleAuth for login and logout : https://console.cloud.google.com/
 
